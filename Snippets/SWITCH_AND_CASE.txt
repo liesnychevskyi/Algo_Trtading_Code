@@ -1,0 +1,25 @@
+//+------------------------------------------------------------------+|| SWITCH AND CASE
+//string entry = "";
+
+//switch (choice)
+//{
+//   case 1:
+//   entry +=  " Customer wants RSI";
+//   break;
+//
+//   case 2:
+//   entry +=  " Customer wants Bolinger Bands";
+//   break;
+//
+//   case 3:
+//   entry +=  " Customer wants MacD";
+//   break;
+//
+//   case (1 + 4):
+//   entry +=  " Customer wants Random entries";
+//   break;
+//
+//   default:
+//   entry += "Customer does not know entry";
+//}
+//   Comment(entry);
